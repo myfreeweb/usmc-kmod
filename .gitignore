@@ -1,0 +1,6 @@
+/*.h
+*.kld
+*.ko
+/export_syms
+/machine
+/smctool
